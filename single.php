@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+﻿<?php get_header(); ?>
 
 <div id="bigcontainer">
 	
@@ -11,7 +11,7 @@
 			<div class="entry">
                         <?php the_content(); ?>
                         <p class="postmetadata">
-                        <?php the_time('M j, Y') ?><?php _e(' &#124; '); ?> <?php the_category(', ') ?><br />
+                        <?php the_date() ?><?php _e(' &#124; '); ?> <?php the_category(', ') ?><br />
                                         
                         </p>
 			</div>
@@ -31,7 +31,7 @@
 		</div>
 			<?php else: ?>
 				<div class="post">
-					<h2><?php _e('Not Found'); ?></h2>
+					<h2><?php _e('Não encontrado'); ?></h2>
 				</div>
 
 

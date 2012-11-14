@@ -6,13 +6,13 @@
 	<br />
 	<br />
 <br />
-<h2>Looks like you took a wrong turn ...</h2>
+<h2>Alguma coisa deu errado...</h2>
 <br />
-<img src="/wp-content/themes/goshen/img/404.png" />
+<img src="<?php bloginfo('template_directory'); ?>/img/404.png" />
 <br />
 <br />
 <br />
-<h2>We couldn't find that page!</h2>
+<h2>Não foi possível encontrar essa página!</h2>
 <br />
 <br />
 <br />

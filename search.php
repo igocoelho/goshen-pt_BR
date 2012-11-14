@@ -11,8 +11,8 @@
 			<div class="entry">
 			<?php the_excerpt(); ?>
 			<p class="postmetadata">
-				<?php _e('Filed under&#58;'); ?> <?php the_category(', ') ?> <?php _e('by'); ?> <?php  the_author(); ?><br />
-				<?php comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?> <?php edit_post_link('Edit', ' &#124; ', ''); ?>
+				<?php _e('Em&#58;'); ?> <?php the_category(', ') ?> <?php _e('por'); ?> <?php  the_author(); ?><br />
+				<?php comments_popup_link('Sem comentários &#187;', '1 comentário &#187;', '% comentários &#187;'); ?> <?php edit_post_link('Editar', ' &#124; ', ''); ?>
 			</p>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 		</div>
 			<?php else: ?>
 				<div class="post">
-					<h2><?php _e('Not Found'); ?></h2>
+					<h2><?php _e('Não encontrado'); ?></h2>
 				</div>
 
 

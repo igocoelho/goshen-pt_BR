@@ -21,7 +21,7 @@
 		</div>
 			<?php else: ?>
 				<div class="post">
-					<h2><?php _e('Not Found'); ?></h2>
+					<h2><?php _e('Não encontrado'); ?></h2>
 				</div>
 
 

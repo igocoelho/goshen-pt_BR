@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+﻿<?php get_header(); ?>
 
 <div id="bigcontainer">
 
@@ -9,12 +9,12 @@
 		<div class="post" id="post-<?php the_ID(); ?>">
 		<h2><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title();?></a></h2>
 			<div class="entry">
-			<?php the_content('<br/><span class="moretext">Read more &raquo; &raquo; </span>'); ?>
+			<?php the_content('<br/><span class="moretext">Leia mais &raquo; &raquo; </span>'); ?>
 			<p class="postmetadata">
 
-                         <?php the_time('M j, Y') ?><?php _e(' &#124; '); ?> <?php the_category(', ') ?><br />
+                         <?php the_date() ?><?php _e(' &#124; '); ?> <?php the_category(', ') ?><br />
                        		
-	<?php comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?> <?php edit_post_link('Edit', ' &#124; ', ''); ?>
+	<?php comments_popup_link('Sem comentários &#187;', '1 comentário &#187;', '% comentários &#187;'); ?> <?php edit_post_link('Editar', ' &#124; ', ''); ?>
 			</p>
 		</div>
 		</div>
@@ -27,7 +27,7 @@
 		</div>
 			<?php else: ?>
 				<div class="post">
-					<h2><?php _e('Not Found'); ?></h2>
+					<h2><?php _e('Não encontrado'); ?></h2>
 				</div>
 
 
