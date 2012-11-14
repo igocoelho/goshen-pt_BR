@@ -6,11 +6,11 @@ Créditos originais para [Anthony DeBarros](http://www.anthonydebarros.com).
 
 ## Recursos e Funcionalidades
 
-### Única coluna;
-### Conteúdo da barra lateral e no rodapé configurável através de _widgets_*
-### Suporte a API de fontes do Google
-### Textos em português do Brasil*
-### Suporte a atualização automática através do [Theme Updater](http://wordpress.org/extend/plugins/theme-updater/)*
+* Única coluna;
+* Conteúdo da barra lateral e no rodapé configurável através de _widgets_\*
+* Suporte a API de fontes do Google
+* Textos em português do Brasil\*
+* Suporte a atualização automática através do [Theme Updater](http://wordpress.org/extend/plugins/theme-updater/)\*
 
 \* _funcionalidade não disponível na [versão original](https://github.com/AnthonyDB/goshen-wordpress-theme)_
 
