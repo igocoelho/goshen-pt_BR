@@ -25,3 +25,14 @@ Veja o tema aplicado no [meu blog pessoal](http://luthiano.com).
 Efetue o [download (.zip)](https://github.com/luthiano/goshen-pt_BR/zipball/0.9) e descompate o arquivo na pasta *wp-content/themes* do seu servidor WordPress ou use a interface administrativa para instalar o tema.
 
 Nota: Caso você tenha o _plugin_ [Theme Updater](http://wordpress.org/extend/plugins/theme-updater/) instalado, o WordPress notificará sempre que as atualizações estiverem disponíveis.
+
+## Suporte
+
+Encontrou algum problema? Tem alguma sugestão de melhoria?
+
+Acesse [https://github.com/luthiano/goshen-pt_BR/issues] e registre um caso.
+
+## Quem está usando o Goshen-pt_BR?
+
+* Luthiano Vasconcelos [http://luthiano.com]
+* _Para acrescentar seu nome aqui envie um [pull request](https://github.com/luthiano/goshen-pt_BR/pulls) no arquivo README.md deste repositório ou simplemente [entre em contato](http://luthiano.com/contato).
