@@ -30,9 +30,9 @@ Nota: Caso você tenha o _plugin_ [Theme Updater](http://wordpress.org/extend/plu
 
 Encontrou algum problema? Tem alguma sugestão de melhoria?
 
-Acesse [https://github.com/luthiano/goshen-pt_BR/issues] e registre um caso.
+Acesse <https://github.com/luthiano/goshen-pt_BR/issues> e registre um caso.
 
 ## Quem está usando o Goshen-pt_BR?
 
-* Luthiano Vasconcelos [http://luthiano.com]
-* _Para acrescentar seu nome aqui envie um [pull request](https://github.com/luthiano/goshen-pt_BR/pulls) no arquivo README.md deste repositório ou simplemente [entre em contato](http://luthiano.com/contato).
+* Luthiano Vasconcelos <http://luthiano.com>
+* _Para acrescentar seu nome aqui envie um [pull request](https://github.com/luthiano/goshen-pt_BR/pulls) no arquivo README.md deste repositório ou simplemente [entre em contato](http://luthiano.com/contato)_.
